@@ -14,7 +14,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+**Theory :**
 
 Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 
@@ -34,10 +34,6 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 
 
 **Program:**
-
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: SUDHARSAN S RegisterNumber:24900437
 
 F1:
 ```
@@ -61,6 +57,12 @@ endmodule
 ```
 
 
+/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+
+Developed by: SUDHARSAN S RegisterNumber:24900437
+
+
+
 **RTL realization**
 
 
@@ -76,6 +78,11 @@ F2:
 **Output:**
 
 
+
+**RTL**
+
+**Timing Diagram :**
+
 F1:
 
 ![WhatsApp Image 2024-11-29 at 14 26 09_16c0221f](https://github.com/user-attachments/assets/8105e5fb-113d-44aa-8d9e-c40011249265)
@@ -83,10 +90,6 @@ F1:
 F2:
 
 ![WhatsApp Image 2024-11-29 at 14 26 47_89927366](https://github.com/user-attachments/assets/fd1ca882-9bf8-4902-abb7-3429114452f2)
-
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
