@@ -63,12 +63,14 @@ Developed by: SUDHARSAN S RegisterNumber:24900437
 
 
 
-**RTL realization**
+**RTL**
 
 
 F1:
 
 ![WhatsApp Image 2024-11-29 at 14 25 52_90281635](https://github.com/user-attachments/assets/c2426bf5-3854-4e1b-8c9e-d9321bd37415)
+
+TRUTH TABLE FOR F1:
 
 
 ![Screenshot 2024-11-29 133213](https://github.com/user-attachments/assets/269c12dc-304f-4e17-a15f-6c61a4a76d36)
@@ -77,14 +79,16 @@ F2:
 
 ![WhatsApp Image 2024-11-29 at 14 26 40_a40d5d91](https://github.com/user-attachments/assets/a6764beb-fc93-494a-a2af-486f04f29bb3)
 
+TRUTH TABLE FOR F2:
+
 
 ![Screenshot 2024-11-29 133329](https://github.com/user-attachments/assets/843dbd46-dd0b-4c1c-8ec7-49af8f78fedf)
 
-**Output:**
 
 
 
-**RTL**
+
+
 
 **Timing Diagram :**
 
